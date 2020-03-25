@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cholesky": "^1.2.0",
+    "conjugate-gradient": "0.0.2",
+    "cors": "^2.8.5",
+    "csr-matrix": "^2.0.0",
+    "cubic-spline": "^3.0.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "gaussian-elimination": "^1.0.2",
+    "gordan": "^0.1.6",
+    "interpolating-polynomial": "^1.1.2",
+    "m4th": "^0.1.0",
+    "mathjs": "^6.6.1",
+    "matrix-js": "^1.4.0",
+    "ml-matrix": "^6.4.1",
+    "mongoose": "^5.9.4",
+    "na-gaussian-elimination": "^1.0.0",
+    "nodemon": "^2.0.2",
+    "regression": "^2.0.1"
+  }
+}
